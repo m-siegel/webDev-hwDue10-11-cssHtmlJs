@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+}
+
+aside span {
+  display: inline-block;
+  border: 2px solid purple;
+  margin: 4px;
+  padding: 4px;
+}
